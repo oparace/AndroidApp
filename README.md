@@ -1,4 +1,4 @@
-This is a calculator game that actual makes the user think instead of the user blindly entering numbers to solve 
+This is a calculator game that actualyl makes the user think instead of the user blindly entering numbers to solve 
 a simple calculation 
 
 
